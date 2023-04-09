@@ -1,0 +1,2 @@
+End-to-End
+Serve para testar a aplicação do ponto de vista do usuário
